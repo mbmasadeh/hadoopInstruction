@@ -1,0 +1,5 @@
+﻿export HADOOP_OPTS=-Djava.net.preferIPv4Stack=true //i not L 
+
+export HADOOP_HOME_WARN_SUPPRESS="TRUE"  
+
+export JAVA_HOME=/usr/local/java/jdk1.8.0_191 
